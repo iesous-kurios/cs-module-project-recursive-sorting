@@ -1,3 +1,5 @@
+hacktoberfest eligible
+
 # Module Project - Recursive Sorting
 
 ## Algorithms
